@@ -1,2 +1,10 @@
 # miniRT
-a simple ray tracer
+a simple ray tracer written in C
+
+Features:
+  -handles spheres, planes, cylinders, squares, triangles
+  -basic phong illumination
+  -save image in .bmp file
+  
+![alt text](https://github.com/Franciszer/miniRT/blob/main/sqrt.bmp?raw=true)
+
