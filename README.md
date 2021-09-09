@@ -6,5 +6,5 @@ Features:
   -basic phong illumination
   -save image in .bmp file
   
-![alt text](https://github.com/Franciszer/miniRT/main/Images/JPG/sqrt.jpg?raw=true)
+![alt text](https://github.com/Franciszer/miniRT/blob/main/Images/JPG/sqrt.jpg?raw=true)
 
