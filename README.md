@@ -6,14 +6,14 @@ Features:
   -basic phong illumination
   -save image in .bmp file
   
-#Squares
+# Squares
 ![alt text](https://github.com/Franciszer/miniRT/blob/main/Images/JPG/sqrt.jpg?raw=true)
 
-#Sphere
+# Sphere
 ![alt text](https://github.com/Franciszer/miniRT/blob/main/Images/JPG/sphere_shadow.jpg?raw=true)
 
-#Multicolor Sphere
+# Multicolor Sphere
 ![alt text](https://github.com/Franciszer/miniRT/blob/main/Images/JPG/sphere_multicolor.jpg?raw=true)
 
-#Cylinder
+# Cylinder
 ![alt text](https://github.com/Franciszer/miniRT/blob/main/Images/JPG/cyl_shadow.jpg?raw=true)
